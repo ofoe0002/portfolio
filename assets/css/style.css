@@ -233,6 +233,13 @@ img {
 
 #contact input.form-control {
     height: 50px;
+    color: #F7F0F0;
+}
+
+
+#contact textarea.form-control {
+    height: 50px;
+    color: #F7F0F0;
 }
 
 .social-links a {
