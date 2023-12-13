@@ -216,7 +216,7 @@ img {
 
 #contact .form-control {
     background-color: var(--secondary-color);
-    border-color:var(--secondary-color);
+    border-color: var(--secondary-color);
 }
 
 
@@ -265,12 +265,3 @@ footer p {
     width: 300px;
     color: rgba(247, 240, 240, 0.3);
 }
-
-
-
-
-
-
-
-
-
